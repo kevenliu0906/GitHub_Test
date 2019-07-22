@@ -1,1 +1,8 @@
+<<2019/07/22>>
+Git和GitHub反覆練習
+1. Git push local file to github server
+2. Git clone the file from github to local pc.
+
+
+<<2019/07/19>>
 第一次使用Git
